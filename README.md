@@ -1,1 +1,2 @@
 # MovieFlex
+Movies Booking Application
